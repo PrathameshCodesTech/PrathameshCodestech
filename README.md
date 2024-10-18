@@ -1,6 +1,6 @@
 # Hi there, I'm Prathamesh Marathe! 👋
 
-I'm a passionate developer with expertise in **Web Development**, **Cloud Computing**, and **DevOps**. I thrive on building scalable and innovative solutions, and I'm constantly exploring new technologies to enhance my skillset. Welcome to my GitHub profile!
+I'm a passionate developer with expertise in **Web Development**. I thrive on building scalable and innovative solutions, and I'm constantly exploring new technologies to enhance my skillset. Welcome to my GitHub profile!
 
 ## 🚀 About Me:
 - 🌱 Currently learning **Django** to build full-stack applications.
