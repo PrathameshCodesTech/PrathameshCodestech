@@ -27,8 +27,6 @@ I'm a passionate developer with expertise in **Web Development**, **Cloud Comput
 - 🌐 Participated in multiple **open-source projects**, focusing on **cloud-based** and **full-stack** solutions.
 - 💻 Continuously enhancing skills in **DevOps tools** such as **Docker**, **Kubernetes**, and **CI/CD pipelines**.
 
-## 📊 GitHub Stats:
-![Prathamesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrathameshCodestech&show_icons=true&theme=radical)
 
 ## 🌐 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prathamesh-marathe-a02b70245/)
