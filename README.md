@@ -23,8 +23,8 @@ I'm a passionate developer with expertise in **Web Development**. I thrive on bu
 
 
 ## 🏆 Achievements:
-- 🏅 Built and deployed scalable web applications using **Django** and **MySQL**.
-- 🌐 Participated in multiple **open-source projects**, focusing on **cloud-based** and **full-stack** solutions.
+- 🏅 Built scalable web applications using **Django** and **MySQL**.
+- 🌐 focusing on **cloud-based** and **full-stack** solutions.
 - 💻 Continuously enhancing skills in **DevOps tools** such as **Docker**, **Kubernetes**, and **CI/CD pipelines**.
 
 
